@@ -1,0 +1,17 @@
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\bin\Debug\net6.0\ConsoleAppCAp1.exe
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\bin\Debug\net6.0\ConsoleAppCAp1.deps.json
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\bin\Debug\net6.0\ConsoleAppCAp1.runtimeconfig.json
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\bin\Debug\net6.0\ConsoleAppCAp1.dll
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\bin\Debug\net6.0\ConsoleAppCAp1.pdb
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.csproj.AssemblyReference.cache
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.AssemblyInfoInputs.cache
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.AssemblyInfo.cs
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.csproj.CoreCompileInputs.cache
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.csproj.CopyComplete
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.dll
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\refint\ConsoleAppCAp1.dll
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.pdb
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ConsoleAppCAp1.genruntimeconfig.cache
+E:\netcoretest\ConsoleAppCAp1\ConsoleAppCAp1\obj\Debug\net6.0\ref\ConsoleAppCAp1.dll

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4Fu899fzhRU9xFAMNexfudVjMcw9D0sX2P5itkL6eRpvuPQ7PUjAo9vOBo1ClPvv3Wfy525sZSsjItYCq2tkg==",
+  "success": true,
+  "projectFilePath": "E:\\netcoretest\\ConsoleAppCAp1\\ConsoleAppSub1\\ConsoleAppSub1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.11.12.11:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
